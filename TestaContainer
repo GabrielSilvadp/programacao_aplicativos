@@ -37,7 +37,7 @@ public class TestaContainer {
         }
         
         janela.setVisible(true ); //Exibe a janela
-        JOptionPane.showMessageDialog(janela, "Mensagem", "Título", JOptionPane.WARNING_MESSAGE);
+       
         
         
     }
